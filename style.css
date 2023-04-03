@@ -71,10 +71,6 @@ body {
     padding: 10px;
     border-radius: 15px;
 }
-/* 
-.box h2{
-    margin-left: -70px;
-} */
 
 .search input {
     text-transform: capitalize;
@@ -159,7 +155,7 @@ body {
     font-size: 25px;
     font-weight: 600;
     position: absolute;
-    top: 0;
+    top: 2%;
     font-family: "Nunito", sans-serif;
 
 }
